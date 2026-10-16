@@ -1,0 +1,28 @@
+COMSOL COMSOL Multiphysics 6.3 (�����汾: 290)
+Geometry entities [vertices,edges,boundaries,domains]=[316, 480, 243, 41]
+Domain 1 bbox=[-440.0, 3380.0, -440.0, 3380.0, -2000.0, -1200.0]
+Domain 2 bbox=[-440.0, 3380.0, -440.0, 3380.0, -1200.0, 0.0]
+Domain 3 bbox=[-440.0, 3380.0, -440.0, 3380.0, 0.0, 1200.0]
+Domain 4 bbox=[-440.0, 3380.0, -440.0, 3380.0, 1200.0, 2000.0]
+Domain 5 bbox=[-216.2583770751953, 183.7416229248047, 1884.2125244140625, 2284.212646484375, 0.0, 220.0]
+Port boundary 6 bbox=[-440.0, 3380.0, -440.0, 3380.0, -1200.0, -1200.0]
+Port boundary 12 bbox=[-440.0, 3380.0, -440.0, 3380.0, 1200.0, 1200.0]
+
+COMSOL COMSOL Multiphysics 6.3 (�����汾: 290)
+Geometry entities [vertices,edges,boundaries,domains]=[316, 480, 243, 41]
+Domain 1 bbox=[-440.0, 3380.0, -440.0, 3380.0, -2000.0, -1200.0]
+Domain 2 bbox=[-440.0, 3380.0, -440.0, 3380.0, -1200.0, 0.0]
+Domain 3 bbox=[-440.0, 3380.0, -440.0, 3380.0, 0.0, 1200.0]
+Domain 4 bbox=[-440.0, 3380.0, -440.0, 3380.0, 1200.0, 2000.0]
+Domain 5 bbox=[-216.2583770751953, 183.7416229248047, 1884.2125244140625, 2284.212646484375, 0.0, 220.0]
+Port boundary 6 bbox=[-440.0, 3380.0, -440.0, 3380.0, -1200.0, -1200.0]
+Port boundary 12 bbox=[-440.0, 3380.0, -440.0, 3380.0, 1200.0, 1200.0]
+Mesh elements=114597
+Mesh min quality=0.2065
+Linear solver=GMRES with the generated wave-optics multigrid preconditioner
+Angle sweep=1,2,3,4,5 deg
+Wavelength=1000:5:1500 nm
+Combinations=505
+SOLVED=false
+
+NUMBER37_REBUILD_OK

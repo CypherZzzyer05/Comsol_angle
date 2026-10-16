@@ -1,0 +1,73 @@
+{
+  "source_version": "2092:COMSOL 6.4.0.293",
+  "rebuilt_version": "1979:COMSOL 6.3.0.290",
+  "checks": [
+    "All 4 blocks and all 37 cylinders match source geometry definitions.",
+    "Port and side boundary selections match source.",
+    "Both side conditions are Floquet, with wave vector from periodic port.",
+    "PML present on the source outer domains.",
+    "Cartesian angle-by-wavelength sweep contains all 505 requested cases.",
+    "Saved fully coupled solver uses the iterative solver i1.",
+    "All transferred Basic and optical material property values match source."
+  ],
+  "mesh_settings": {
+    "size": {
+      "source_hmax": {
+        "T": "30",
+        "value": "299.90",
+        "name": "p:hmax"
+      },
+      "rebuilt_hmax": {
+        "T": "30",
+        "value": "299.90",
+        "name": "p:hmax"
+      },
+      "rebuilt_hmaxactive": null,
+      "rebuilt_custom": {
+        "T": "30",
+        "value": "on",
+        "name": "p:custom"
+      }
+    },
+    "size1": {
+      "source_hmax": {
+        "T": "30",
+        "value": "196.30",
+        "name": "p:hmax"
+      },
+      "rebuilt_hmax": {
+        "T": "30",
+        "value": "196.30",
+        "name": "p:hmax"
+      },
+      "rebuilt_hmaxactive": null,
+      "rebuilt_custom": {
+        "T": "30",
+        "value": "on",
+        "name": "p:custom"
+      }
+    },
+    "size2": {
+      "source_hmax": {
+        "T": "30",
+        "value": "88.240",
+        "name": "p:hmax"
+      },
+      "rebuilt_hmax": {
+        "T": "30",
+        "value": "88.240",
+        "name": "p:hmax"
+      },
+      "rebuilt_hmaxactive": null,
+      "rebuilt_custom": {
+        "T": "30",
+        "value": "on",
+        "name": "p:custom"
+      }
+    }
+  },
+  "sha256": {
+    "NUMBER37_original.mph": "c6d312391c6ec196e3cc2b71348444430c08ba070aa4750466b21073b3c282d7",
+    "NUMBER37_COMSOL63_angle_wavelength.mph": "03bddd3696567c96f1609d7826c6edd130cdde8d91f6971e12b8512a57e0d0c4"
+  }
+}

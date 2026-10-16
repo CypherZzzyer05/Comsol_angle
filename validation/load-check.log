@@ -1,0 +1,13 @@
+*******************************************
+***COMSOL 6.3.0.290 progress output file***
+*******************************************
+Fri Oct 16 16:27:37 CST 2026
+COMSOL Multiphysics 6.3 (开发版本: 290) 在批处理模式下启动
+正在打开文件: D:\projects\number37-angle-sweep\models\NUMBER37_original.mph
+
+/***************/
+/*****错误********/
+/***************/
+文件是使用更高版本的 COMSOL Multiphysics 创建的。
+ - 版本: COMSOL 6.4.0.293
+总时间: 1 s.

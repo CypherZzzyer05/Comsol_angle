@@ -1,0 +1,10 @@
+work/
+results/
+*.class
+*.class.*
+*.mph.lock
+*.mph.recovery/
+*.mph.status
+*.mph.log
+*.mph.bak
+__pycache__/
